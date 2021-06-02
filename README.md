@@ -4,8 +4,9 @@ This project is a part of the [Big-data computing (2020-2021)](https://github.co
 #### -- Project Status: [Working]
 
 ## Project Intro/Objective
-The purpose of this project is to make predictions where the prediction task is to determine whether a person makes over 50K a year. (classification task).![image](https://user-images.githubusercontent.com/29737465/120558435-becb3f80-c3ff-11eb-83a7-987aef156367.png).<br>
-I have worked with many supervised ML algorithms to analyse the performance of the model. I am expected to use PySpark with mllib instead of plain python with sk-learn. To analyze the data, I have done the best model selection to choose the best classifier to predict whether a person makes over 50K a year. ![image](https://user-images.githubusercontent.com/29737465/120558601-0356db00-c400-11eb-9401-e2f1772ed5a2.png)
+The purpose of this project is to make predictions where the prediction task is to determine whether a person makes over 50K a year. (classification task).
+<br>
+I have worked with many supervised ML algorithms to analyse the performance of the model. I am expected to use PySpark with mllib instead of plain python with sk-learn. To analyze the data, I have done the best model selection to choose the best classifier to predict whether a person makes over 50K a year. 
 
 
 ### Methods Used
@@ -22,7 +23,6 @@ I have worked with many supervised ML algorithms to analyse the performance of t
 
 ## Project Description and dataset
 I have used the Income classification dataset for this project which is publicly availabe in the kaggle website. This dataset contains more than 40k entries and 15 columns. Many pre-processing, cleaning, imputing, encoding, balancing and scaling were addressed. Since the dataset contains many categorical features, the number of features as result of encoding, were increased to more than 100 features. Therefore, feature engineering were addressed to increase the performance. 
-![image](https://user-images.githubusercontent.com/29737465/120559040-9e4fb500-c400-11eb-8b85-8f6fc158e4d8.png)
 
 
 ## Needs of this project
