@@ -36,5 +36,5 @@ I have used the Income classification dataset for this project which is publicly
 - big-data concepts
 
 ## Outcome
-The related results and accuracy will be found in the outcome directory
+The related results and performance metrics will be found in the outcome directory
 
