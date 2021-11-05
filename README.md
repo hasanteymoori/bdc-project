@@ -1,10 +1,10 @@
 ## Income classification
-This project is a part of the [Big-data computing (2020-2021)](https://github.com/gtolomei/big-data-computing) at [Sapienza University] as a final project.
+This project is related to the [Big-data computing (2020-2021)](https://github.com/gtolomei/big-data-computing) course at Sapienza University as a final project.
 
 #### Project Status: [Done]
 
 ## Project Intro/Objective
-The purpose of this project is to make predictions where the prediction task is to determine whether a person makes over 50K a year. (classification task).
+The purpose of this project is to make predictions where the prediction task is to determine whether a person makes over 50K a year or not. (classification task).
 <br>
 I have worked with many supervised ML algorithms to analyse the performance of the model. I am expected to use PySpark with mllib instead of plain python with sk-learn. To analyze the data, I have done the best model selection to choose the best classifier to predict whether a person makes over 50K a year. 
 
@@ -34,4 +34,7 @@ I have used the Income classification dataset for this project which is publicly
 - mllib learning 
 - PySpark workflow
 - big-data concepts
+
+## Outcome
+The related results and accuracy will be found in the outcome directory
 
